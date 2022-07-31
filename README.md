@@ -3,7 +3,7 @@
 A Simple Retro Snake Game With Purely JavaSript
 And CSS
 
-Play Here:- <a href="https://lively-semifreddo-f5c1c1.netlify.app/">CLICK TO PLAY </a>
+Play Here:- <a href="https://frolicking-custard-4028df.netlify.app/">CLICK TO PLAY </a>
 
 #Instructions:-
 
